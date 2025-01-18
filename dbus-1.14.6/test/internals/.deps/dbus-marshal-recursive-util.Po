@@ -1,0 +1,17 @@
+internals/dbus-marshal-recursive-util.o: \
+ internals/dbus-marshal-recursive-util.c /usr/include/stdc-predef.h \
+ ../config.h internals/dbus-marshal-recursive-util.h \
+ ../dbus/dbus-string.h ../dbus/dbus-macros.h ../dbus/dbus-types.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
+ ../dbus/dbus-arch-deps.h ../dbus/dbus-memory.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdarg.h
+/usr/include/stdc-predef.h:
+../config.h:
+internals/dbus-marshal-recursive-util.h:
+../dbus/dbus-string.h:
+../dbus/dbus-macros.h:
+../dbus/dbus-types.h:
+/usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h:
+../dbus/dbus-arch-deps.h:
+../dbus/dbus-memory.h:
+/usr/lib/gcc/x86_64-linux-gnu/12/include/stdarg.h:

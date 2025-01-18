@@ -1,0 +1,12 @@
+internals/dbus-marshal-byteswap-util.o: \
+ internals/dbus-marshal-byteswap-util.c /usr/include/stdc-predef.h \
+ ../config.h internals/misc-internals.h ../dbus/dbus-types.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
+ ../dbus/dbus-arch-deps.h ../dbus/dbus-macros.h
+/usr/include/stdc-predef.h:
+../config.h:
+internals/misc-internals.h:
+../dbus/dbus-types.h:
+/usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h:
+../dbus/dbus-arch-deps.h:
+../dbus/dbus-macros.h:

@@ -1,1 +1,2 @@
 # plustracer
+This project captures network packets on a specified interface, resolves IP addresses to hostnames, and logs detailed packet information (TCP, UDP, ICMP) to a trace file, with the filename including the current date and time. It can be considered as a clone of tcpdump. Currently, it only supports TCP, UDP, and ICMP.

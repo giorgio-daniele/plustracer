@@ -1,0 +1,4 @@
+internals/dbus-auth-script.o: internals/dbus-auth-script.c \
+ /usr/include/stdc-predef.h ../config.h
+/usr/include/stdc-predef.h:
+../config.h:
